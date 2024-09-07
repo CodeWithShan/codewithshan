@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.codewithshan.com)
+[![MasterHead](https://github.com/CodeWithShan/codewithshan/blob/main/codewithshan.gif)](https://www.codewithshan.com)
 
 <h1 align="center">Hi 👋, I'm Shan Asif</h1>
 <h3 align="center">Full Stack Developer | Software Engineer | Tech Educator | Founder of ContentMagnet.io</h3>
